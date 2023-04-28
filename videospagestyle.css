@@ -1,0 +1,27 @@
+h1{
+color:#000000;
+text-align:center;
+border:solid black 2px;
+margin:0 500px 0 500px;
+background-color:#feda6a;
+}
+.container{
+display:flex;
+flex-direction:row;
+flex-wrap:wrap;
+border:solid black 2px;
+background-color:#F3CA20;
+height:500px;
+margin-top:25px;
+}
+.item{
+margin:30px 15px 20px 30px;
+border:solid black 1px;
+background-color:white;
+width:250px;
+height:180px;
+}
+body{
+text-align:center;
+background-color:#000000;
+}
